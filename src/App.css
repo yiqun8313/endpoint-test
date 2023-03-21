@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.header {
+  background-color: #535769;
+  color: white;
+  display: flex;
+  height: 40px;
+}
+
+.text {
+  margin: 8px;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  font-weight: 800;
+}
+
+
+input[type="checkbox"] {
+  accent-color: black !important;
+}
